@@ -29,6 +29,5 @@ This project focuses on implementing a PID (Proportional-Integral-Derivative) co
 ## Conclusion  
 This project provided hands-on experience in designing and tuning a PID controller for a liquid level system. By integrating simulation in Factory I/O, the PID Compact block in TIA Portal, and an HMI for real-time monitoring, we were able to test and refine our control strategy efficiently before real-world deployment.
 
---- 
 
-Let me know if you need any other adjustments!
+
