@@ -1,6 +1,3 @@
-Here’s your updated project description with the addition of using an HMI:
-
----
 
 # PID Control System for Liquid Level Simulation
 
